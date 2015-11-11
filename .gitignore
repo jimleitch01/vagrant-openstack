@@ -1,0 +1,6 @@
+files/
+.vagrant/
+*.tar
+*.zip
+*.tgz
+*.xz
